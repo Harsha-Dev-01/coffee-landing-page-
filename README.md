@@ -11,7 +11,7 @@ A modern and responsive coffee shop landing page built using HTML and CSS.
 
 ## ✨ Features
 - Responsive Navbar
-- Hero Section with CTA buttons
+- Hero Section with buttons
 - Product Cards Section
 - Hover Effects & Micro Interactions
 - Clean UI with proper spacing and layout
