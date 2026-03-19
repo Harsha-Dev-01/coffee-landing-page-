@@ -5,7 +5,7 @@ A modern and responsive coffee shop landing page built using HTML and CSS.
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-live-link-here
+🔗  https://harsha-dev-01.github.io/coffee-landing-page-/
 
 ---
 
@@ -51,6 +51,7 @@ coffee-landing-page/
 Harsha Dev
 
 ---
+
 
 ## ⭐ Future Improvements
 - Add full responsiveness (mobile optimization)
